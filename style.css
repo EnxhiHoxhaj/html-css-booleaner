@@ -47,7 +47,7 @@ img{
     margin-top: 20px;
     margin-left: 20px;
 }
-#evi{
+.evi{
     background-color: yellow;
 }
 .lista{
@@ -80,4 +80,9 @@ img{
 }
 .terza-riga{
     background-color: aquamarine;
+}
+#conclusioni{
+    font-size: 25px;
+    margin-top: 50px;
+    margin-left: 20px;
 }
