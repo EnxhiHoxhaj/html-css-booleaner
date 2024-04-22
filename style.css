@@ -3,6 +3,9 @@
     margin: 0px;
     padding: 0px;
 }
+body{
+    margin-right: 20px;
+}
 
 .testata{
     height: 180px;
@@ -23,7 +26,7 @@ margin-left: 20px;
 }
 
 h1{
-    font-size: 50px;
+    font-size: 60px;
     font-weight: 900;
 }
 
@@ -35,13 +38,12 @@ h1{
     color: rgb(35, 155, 235);
 }
 
-img{
-    height: 650px;
+.tim-img{
+    height: 500px; ;
 }
-.tim{
+#galleria{
     margin-left: 20px;
 }
-
 .intro{
     font-size: 25px;
     margin-top: 20px;
