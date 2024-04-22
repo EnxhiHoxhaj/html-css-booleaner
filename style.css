@@ -45,7 +45,7 @@ h1{
     margin-left: 20px;
 }
 .intro{
-    font-size: 25px;
+    font-size: 20px;
     margin-top: 20px;
     margin-left: 20px;
 }
@@ -53,39 +53,34 @@ h1{
     background-color: yellow;
 }
 .lista{
-    margin-left: 50px;
-    font-size: 25px;
+    margin-left: 40px;
+    font-size: 20px;
     margin-top: 50px;
 }
-.tab{
-    font-size: 25px;
+table{
+    font-size: 20px;
     margin-left: 20px;
-    margin-top: 50px;
+    margin-top: 35px;
+    text-align: justify;
 }
-.intestazione{
-    background-color: rgb(35, 155, 235);
-    height: 20px;
+#terzacolonna{
+    width: 65%;
 }
-
-.prima-colonna{
-    background-size:500px;
-    height: 50px;
+thead{
+    background-color: rgb(85, 173, 233);
+    height: 10px;
+    
 }
-.seconda-colonna{
-    background-size: 50%;
+#prima-riga{
+    background-color:rgb(167, 214, 245);
+    width: ;
 }
-.terza-colonna{
-    background-size: 50%;
-}
-.prima-riga{
-    background-color: aquamarine;
-}
-.terza-riga{
-    background-color: aquamarine;
+#terza-riga{
+    background-color: rgb(167, 214, 245);
 }
 #conclusioni{
-    font-size: 25px;
-    margin-top: 50px;
+    font-size: 20px;
+    margin-top: 20px;
     margin-left: 20px;
     margin-bottom: 50px;
 }
@@ -105,7 +100,7 @@ footer{
     width: 412px;
     height: 308px;
     background-size: cover;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     text-align: center;
     font-size: 30px;
     font-weight: bold;
@@ -118,7 +113,7 @@ footer{
     width: 412px;
     height: 308px;
     background-size: cover;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     text-align: center;
     font-size: 30px;
     font-weight: bold;
