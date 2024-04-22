@@ -29,7 +29,15 @@ h1{
 
 .info{
     color: gray;
+    margin-bottom: 20px ;
 }
 #nome-scrittore{
     color: rgb(35, 155, 235);
+}
+
+img{
+    height: 650px;
+}
+.tim{
+    margin-left: 20px;
 }
