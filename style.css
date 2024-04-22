@@ -47,6 +47,37 @@ img{
     margin-top: 20px;
     margin-left: 20px;
 }
-p #evi{
+#evi{
     background-color: yellow;
+}
+.lista{
+    margin-left: 50px;
+    font-size: 25px;
+    margin-top: 50px;
+}
+.tab{
+    font-size: 25px;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+.intestazione{
+    background-color: rgb(35, 155, 235);
+    height: 20px;
+}
+
+.prima-colonna{
+    background-size:500px;
+    height: 50px;
+}
+.seconda-colonna{
+    background-size: 50%;
+}
+.terza-colonna{
+    background-size: 50%;
+}
+.prima-riga{
+    background-color: aquamarine;
+}
+.terza-riga{
+    background-color: aquamarine;
 }
