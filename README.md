@@ -1,0 +1,2 @@
+Questo progetto consiste in un semplice esercizio di sviluppo web, realizzato con HTML e CSS, che simula una pagina dedicata al manifesto di Tim Berners-Lee sull'importanza di un Internet al servizio del "bene pubblico".
+Questo progetto è un esercizio utile per comprendere le basi dello sviluppo web, concentrandosi sull'applicazione pratica di HTML e CSS per creare una semplice pagina informativa.
